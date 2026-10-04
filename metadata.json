@@ -1,0 +1,6 @@
+{
+  "name": "Cambodia Police MOI Image Studio",
+  "description": "High-quality AI image generation studio for Cambodian National Police at the Ministry of Interior (ក្រសួងមហាផ្ទៃ), powered by gemini-3-pro-image-preview with 1K, 2K, and 4K resolutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
